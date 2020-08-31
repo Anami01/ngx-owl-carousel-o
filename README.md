@@ -251,7 +251,7 @@ These options don't work.
 **NOTE**: Setting options in the HTML-template in the way like
 
 ```html
-<owl-carousel-o [options]="{navText: [ '<i class="fa-chevron-left"></i>', '<i class="fa-chevron-right></i>"' ]}">
+<owl-carousel-o [options]="{navText: [ '<i class="fa-chevron-left"></i>', '<i class="fa-chevron-right"></i>' ]}">
   <ng-template carouselSlide>Slide</ng-template>
 </owl-carousel-o>
 ```
